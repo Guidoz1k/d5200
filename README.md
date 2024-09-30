@@ -13,4 +13,4 @@ Then get the modified firmware (No LiveView Timeout using 15min option) on this 
 Select the option to update your firmware and then just connect everything up.
 OBS should indentify the video capture device as a camera. 
 
-complete guide found [here](youtube.com/watch?v=EEmr4JErRlc). 
+complete guide found [here](https://www.youtube.com/watch?v=EEmr4JErRlc).
